@@ -49,8 +49,8 @@ Using the DL model predict for some random inputs
 
 ## PROGRAM
 
-### Name: DINESH KUMAR R
-### Register Number: 212222110010
+### Name: KIRUPANANDHAN T
+### Register Number: 212221230051
 
 ```py
 
